@@ -1,5 +1,5 @@
 # Desafio Amigo Secreto
-Este es un juego que se trata del amigo secreto, encontraras un campo de texto en cual escribiras los nombres de tus amigos y presionas el boton añadir, se te mostrara la lista de los amigos añadidos, luego presionar el boton sortear amigo se mostrara el amigo secreto. Este juego puedes usarlo para realizar tu actividades grupales como por ejemplo elegir tu amigo secreto en diferentes actividades.
+El "Amigo Secreto" es un juego en el que un usuario escribe los nombres de sus amigos para participar en un sorteo. Una vez ingresados todos los nombres, se elige al azar a uno de los participantes como el amigo secreto. Este juego puedes usarlo para realizar tu actividades grupales como por ejemplo elegir tu amigo secreto para regalar algo. El juego es ideal para celebraciones, reuniones familiares o de amigos, y fomenta la sorpresa, el compañerismo y la diversión.
 
 ## Pasos para la ejecución del desafío Amigo Secreto
 
