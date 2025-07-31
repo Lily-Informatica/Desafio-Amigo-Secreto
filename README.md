@@ -14,7 +14,7 @@ Este es un desafio se trata del amigo secreto, encontraras un campo de texto en 
 
    ![Lista de amigos](https://github.com/user-attachments/assets/580fd8e7-168f-4ec3-be68-cd0978032b6f)
 
-6. Luego se te mostrará tu lista de amigos, y le das clic en “Sortear amigo”:
+6. Luego le das clic en “Sortear amigo”:
 
    ![Sorteo](https://github.com/user-attachments/assets/8b296987-f8e2-483b-8582-852e735385d6)
 
