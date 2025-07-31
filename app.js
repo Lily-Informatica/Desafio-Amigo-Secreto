@@ -1,5 +1,3 @@
-// El principal objetivo de este desafío es fortalecer tus habilidades en lógica de programación. Aquí deberás desarrollar la lógica para resolver el problema.
-
 
 //Se inicia declarando una variable tipo array que almacenera los nombre de los amigos ingresados.
 let amigos = [];
