@@ -1,7 +1,7 @@
 # Desafio Amigo Secreto
 El "Amigo Secreto" es un juego en el que un usuario escribe los nombres de sus amigos para participar en un sorteo. Una vez ingresados todos los nombres, se elige al azar a uno de los participantes como el amigo secreto. Este juego puedes usarlo para realizar tu actividades grupales como por ejemplo elegir tu amigo secreto para regalar algo. El juego es ideal para celebraciones, reuniones familiares o de amigos, y fomenta la sorpresa, el compañerismo y la diversión.
 
-## Pasos para la ejecución del desafío Amigo Secreto
+## :page_facing_up: Pasos para la ejecución del desafío Amigo Secreto
 
 1. Descarga los archivos.
 2. Abre tu editor de código (por ejemplo, Visual Studio Code).
@@ -18,7 +18,7 @@ El "Amigo Secreto" es un juego en el que un usuario escribe los nombres de sus a
 
    ![Sorteo](https://github.com/user-attachments/assets/8b296987-f8e2-483b-8582-852e735385d6)
 
-## Acceso al juego
+## :video_game: Acceso al juego
 
 [Enlace directo](https://lily-informatica.github.io/Desafio-Amigo-Secreto/)
 
