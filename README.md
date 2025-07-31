@@ -20,7 +20,7 @@ El "Amigo Secreto" es un juego en el que un usuario escribe los nombres de sus a
 
 ## :video_game: Acceso al juego
 
-[Enlace directo](https://lily-informatica.github.io/Desafio-Amigo-Secreto/)
+:white_check_mark: [Enlace directo](https://lily-informatica.github.io/Desafio-Amigo-Secreto/)
 
 
 
