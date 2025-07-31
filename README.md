@@ -1,6 +1,6 @@
 # Desafio Amigo Secreto  
-  ![amigosecreto](https://github.com/user-attachments/assets/7f9e3c5f-98da-47d2-8c9f-b7dc1c123abc)
-
+  ![Image](https://github.com/user-attachments/assets/9a1bfd04-15c0-4318-b840-47aa82d4b16c)
+  
 El "Amigo Secreto" es un juego en el que un usuario escribe los nombres de sus amigos para participar en un sorteo. Una vez ingresados todos los nombres, se elige al azar a uno de los participantes como el amigo secreto. Este juego puedes usarlo para realizar tu actividades grupales como por ejemplo elegir tu amigo secreto para regalar algo. El juego es ideal para celebraciones, reuniones familiares o de amigos, y fomenta la sorpresa, el compañerismo y la diversión.
 
 ## :page_facing_up: Pasos para la ejecución del desafío amigo secreto
