@@ -20,9 +20,15 @@ El "Amigo Secreto" es un juego en el que un usuario escribe los nombres de sus a
 
    ![Sorteo](https://github.com/user-attachments/assets/8b296987-f8e2-483b-8582-852e735385d6)
 
+7. Luego te saldra tu amigo secreto elegido:
+
+   ![amigo_elegido](https://github.com/user-attachments/assets/ebfc8a8d-400c-4d3a-b768-d27e82f30af5)  
+
 ## :video_game: Acceso al juego
 
 :white_check_mark: [Enlace directo](https://lily-informatica.github.io/Desafio-Amigo-Secreto/)
+
+
 
 
 
